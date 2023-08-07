@@ -1,0 +1,25 @@
+@import "_vars";
+@import "_mixins";
+@import "_settings";
+@import "_grid";
+
+@import "./common/_header";
+@import "./common/_footer";
+
+@import "./main-page/_banner";
+@import "./main-page/_contacts";
+@import "./main-page/_hero";
+@import "./main-page/_highrait";
+@import "./main-page/_specoffs";
+@import "./main-page/_tops";
+@import "./main-page/_usefull";
+
+
+@import "./small-pages/_catalog";
+@import "./small-pages/_aside";
+@import "./small-pages/_similar_goods";
+@import "./small-pages/_good-card";
+@import "./small-pages/_window";
+@import "./small-pages/_cooperation";
+
+@import "_media";
